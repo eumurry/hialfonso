@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @hialfonso
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi there!!! I am Alfonso Murrieta and this is my "ReadMe" ✌🏻
 
-<!---
-hialfonso/hialfonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I am a data scientist who loves share knowledge </br>
+- I am looking for new technologies and techniques to optimize and improve human life using Artificial Intelligence
+
+### Projects, lenguages, and more
+
+- I’m currently working at the biggest retailer of LATAM (FEMSA - OXXO ) as Data Scientist </br>
+- My favorite lenguage is Python but I am familiar with languages such as Scala, R or C++
+
+### Interesting fact:
+
+I love emojis and EDM 😅
+
+### Contact
+
+Ask me about whatever thing that you want to learn </br>
+📧 Email: amurrietavillegas@gmail.com
+
