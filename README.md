@@ -1,7 +1,7 @@
 ## Hi there!!! I am Alfonso Murrieta and this is my "ReadMe" ✌🏻
 
 - I am a data scientist who loves share knowledge </br>
-- I am looking for new technologies and techniques to optimize and improve human life using Artificial Intelligence
+- I am looking for new technologies and techniques to optimize and improve human life using AI
 
 ### Projects, lenguages, and more
 
